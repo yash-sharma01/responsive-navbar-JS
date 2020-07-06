@@ -1,4 +1,4 @@
-# Responsive navigation bar using Vanilla JavaScript
+# Responsive navigation bar using JS
 
 A responsive navigation bar designed using HTML, SCSS and Vanilla JacaScript.
 
