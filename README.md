@@ -1,6 +1,6 @@
 # Responsive navigation bar using JS
 
-A responsive navigation bar designed using HTML, SCSS and Vanilla JacaScript.
+A responsive navigation bar designed using HTML, SCSS and Vanila JacaScript.
 
 ### Watch the project live at:
 
